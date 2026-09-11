@@ -277,3 +277,16 @@ Renewal details:
 - PA: FAILED
   - Login failed
 ========================================
+========================================
+Workflow Run: 2026-09-11 14:49:44 UTC
+Status: FAILED
+Trigger: workflow_dispatch
+Repository: snsaasns01-cmd/pythonanywhere-2
+Branch: master
+Run ID: 34612435068
+Configured accounts:
+- PA: huntxt
+Renewal details:
+- PA: FAILED
+  - Network error: 403 Client Error: Forbidden for url: https://www.pythonanywhere.com/user/huntxt/webapps/
+========================================
